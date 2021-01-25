@@ -1,5 +1,5 @@
 .bottomFix {
-position: sticky;
+position: fixed;
   z-index: 170;
     bottom: 0;
     width: 100%;
